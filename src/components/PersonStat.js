@@ -13,7 +13,7 @@ function ParsonStat(props) {
                   <Card.Title>{parson.first_name}</Card.Title>
                   <Card.Text>{parson.last_name}</Card.Text>
                   <Card.Text>{parson.id}</Card.Text>
-                  <Card.Text>{parson.email}</Card.Text>
+                  <Card.Text>{parson.emailnp}</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
